@@ -3,7 +3,7 @@
 <title> Log in form </title>
 </head>
 <body>
-    <form action=""method="post">
+    
     <table with="400" border="2" cellpadding="5" align="center">
      <tr>
          <th colspan="2">LOG IN</th>
